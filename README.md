@@ -15,7 +15,7 @@ Write a small project to findout running instances, security group, uptime,avail
 # Further important instruction:
 
 ##  Don't: :no_entry_sign:
-* Please do not check-in your received Access key ID and Secret access key. You can look at an example share on sample.py for how to do it without expose/hardcoding into your project.
+* Please do not check-in your received Access key ID and Secret access key. You can look at an example share on sample.py[https://github.com/csingh-livevox/lv-interview/blob/main/sample.py] for how to do it without expose/hardcoding into your project.
 
 ## Do's: :tick:
 * Please use python and/or its any test framework
