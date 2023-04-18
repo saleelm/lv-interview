@@ -12,8 +12,8 @@ Write a small project to verify testcase A and Testcase B on ASG .
  * 4- Findout uptime of ASG running instances and get the longest running instance.
 
 #### Testcase:- B
- * Find the Scheduled actions of as which is going to run next and calcalate elapsed in hh:mm:ss from current time.
- * Calculate total number instances lunched and terminated on current day.
+ * Find the Scheduled actions of given ASG which is going to run next and calcalate elapsed in hh:mm:ss from current time.
+ * Calculate total number instances lunched and terminated on current day for the given ASG.
 
 
 ## Expectation from your project:
